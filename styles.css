@@ -1,6 +1,24 @@
 /* CSS styles */
 
+* {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
 img.hero {
     height: auto;
     width: 500px;
+}
+
+h1.recipe {
+    background-color: red;
+    color: white;
+}
+
+h3.recipe {
+    background-color: green;
+    color: white;
 }
